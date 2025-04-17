@@ -275,7 +275,7 @@ make -C host run
 
 ```
 
-## （二）SM4-rs：基于Rust的OP-TEE国密SM4实现流程
+## （二）des-rs：基于Rust的OP-TEE国密DES实现流程
 
 ### 代码说明
 
